@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+<title id="title">Imagem representativa de Gabriel</title>
+<desc id="desc">Ilustração de um estudante de tecnologia em frente a elementos de programação.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1e293b"/><stop offset="100%" stop-color="#0f172a"/></linearGradient>
+</defs>
+<rect width="720" height="720" rx="48" fill="#0f172a"/>
+<circle cx="162" cy="136" r="120" fill="url(#bg)" opacity="0.32"/>
+<circle cx="572" cy="592" r="148" fill="url(#bg)" opacity="0.24"/>
+<rect x="96" y="96" width="528" height="528" rx="38" fill="url(#card)" stroke="#334155" stroke-width="3"/>
+<rect x="140" y="136" width="440" height="124" rx="24" fill="#111827" stroke="#334155"/>
+<circle cx="178" cy="176" r="10" fill="#ef4444"/><circle cx="210" cy="176" r="10" fill="#f59e0b"/><circle cx="242" cy="176" r="10" fill="#22c55e"/>
+<text x="168" y="226" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">&lt; Gabriel /&gt;</text>
+<circle cx="360" cy="352" r="78" fill="#38bdf8" opacity="0.18"/>
+<circle cx="360" cy="320" r="56" fill="#dbeafe"/>
+<path d="M271 523c16-72 62-112 89-112s73 40 89 112" fill="#8b5cf6"/>
+<path d="M292 522c12-45 39-70 68-70s56 25 68 70" fill="#38bdf8" opacity="0.92"/>
+<path d="M315 315c18-48 83-48 101 0 6-37-17-72-54-72-39 0-61 33-47 72z" fill="#0f172a"/>
+<rect x="150" y="548" width="420" height="34" rx="17" fill="#020617" stroke="#334155"/>
+<rect x="168" y="559" width="130" height="12" rx="6" fill="#38bdf8"/><rect x="314" y="559" width="78" height="12" rx="6" fill="#8b5cf6"/><rect x="408" y="559" width="112" height="12" rx="6" fill="#64748b"/>
+</svg>
